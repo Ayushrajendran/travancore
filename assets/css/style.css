@@ -6427,6 +6427,7 @@ img{
 	color:#222222;
 }
 
+
 .contact-page-section .contact-box{
 	position:relative;
 	margin-bottom:30px;
@@ -6648,4 +6649,8 @@ img{
 .contact-form .form-group .submit-btn i{
 	font-size:18px;
 	margin-left:8px;
+}
+
+.fa-envelope:before{
+	color: #4681c1;
 }
